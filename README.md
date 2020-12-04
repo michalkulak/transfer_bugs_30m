@@ -61,7 +61,7 @@ CandidateName_CandidateSurname_task_name      // you can ommit the estimated tas
 ```
 Let the candidate to work with this branch however he or she wants. Do not put any protection policies because we may want to see how he or she is create PRs, what is the commiting manner etc. 
 
-After the task is done you can create PR to the task branch to have a summary of the solution and review the code. In case of any doubts you can let the rest of recruitment team that they can take a look at the solution and provide their Code Reviews.
+After the task is done you can create PR to the task branch to have a summary of the solution and review the code. In case of any doubts you can let know the rest of recruitment team that they can take a look at the solution and provide their Code Reviews.
 
 :warning: **Do not merge the PR!** We don't want to merge solution to the task branch
 
