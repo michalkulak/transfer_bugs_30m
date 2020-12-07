@@ -8,10 +8,11 @@ Fortunately your company always emphasize writing unit tests. You have proper te
 ## Input
 You have a source code of simple transferring system. The application is transferring money from one account to another, providing some basic validation and storing account data in a simple repository.
 
-There are also 5 tests that are failing. You need to find all bugs (you can use IDE, debugger and everything that will help you to achieve the goal).
+There are also 5 tests that are failing. One of the test case `test_makeTransfer_accountShouldHaveProperBalanceAfterManyTransfers` is a **flaky test**.
 
 ## Output
 All tests should pass.
 
 ## Additional information
 Finding all bugs is not the most important. Try to show how are you looking for a bugs and how are you gonna fix tests - step by step. Focus on understanding how the source code is working. 
+
